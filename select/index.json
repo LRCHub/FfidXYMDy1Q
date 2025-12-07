@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "誰彼スクランブル",
+  "base_artist": "halca",
+  "createdAt": "2025-12-07T15:10:17.402581Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "誰彼スクランブル",
+      "artist": "halca",
+      "has_synced": true,
+      "path": "select/01_誰彼スクランブル_halca.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "誰彼スクランブル",
+      "artist": "halca",
+      "has_synced": false,
+      "path": "select/02_誰彼スクランブル_halca.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "誰彼スクランブル",
+      "artist": "halca",
+      "has_synced": true,
+      "path": "select/03_誰彼スクランブル_halca.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "誰彼スクランブル",
+      "artist": "halca",
+      "has_synced": false,
+      "path": "select/pl_01_誰彼スクランブル_halca.txt"
+    }
+  ]
+}
